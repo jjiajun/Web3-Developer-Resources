@@ -31,5 +31,6 @@ There are 3 methods:
 | Description  | URL |
 | ------------- | ------------- |
 | How to create tests for solidity smart contracts  | https://stermi.medium.com/how-to-create-tests-for-your-solidity-smart-contract-9fbbc4f0a319  |
+| Re-entrancy attack case study | https://medium.com/valixconsulting/solidity-smart-contract-security-by-example-02-reentrancy-b0c08cfcd555 |
 | Smart contract security guidelines  | https://blog.openzeppelin.com/smart-contract-security-guidelines/  |
 | Smart contract best practices | https://consensys.github.io/smart-contract-best-practices/ |
