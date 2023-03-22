@@ -23,6 +23,7 @@ There are 3 methods:
 
 | Description  | URL |
 | ------------- | ------------- |
+| How to deploy an ERC-20 token on ankr rpc | https://ankr.hashnode.dev/how-to-deploy-your-own-erc-20-token-with-ankr-and-hardhat-on-eth-goerli-testnet |
 | Building GraphQL apis on Ethereum | https://dev.to/edge-and-node/building-graphql-apis-on-ethereum-4poa |
 
 
