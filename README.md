@@ -8,7 +8,7 @@ A one-stop-shop for web3 development resources, including tutorials, sample code
 - API Layer: The Graph Protocol
 
 
-## To allow contract upgradability
+## Smart contract resources
 There are 3 methods:
 1. Transparent Proxy
 2. Universal Upgradeable Proxy Standard (UUPS)
@@ -16,8 +16,9 @@ There are 3 methods:
 
 | Description  | URL |
 | ------------- | ------------- |
+| How to make your smart contracts upgradeable | https://blog.logrocket.com/using-uups-proxy-pattern-upgrade-smart-contracts/ |
 | How diamond proxy works | https://dev.to/mudgen/how-diamond-storage-works-90e|
-
+| How to build a dividend token in a gas-efficient way | https://www.crowdbotics.com/blog/how-to-build-a-dividend-token-with-solidity 
 
 ## Full-stack resources
 
