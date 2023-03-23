@@ -9,10 +9,6 @@ A one-stop-shop for web3 development resources, including tutorials, sample code
 
 
 ## Smart contract resources
-There are 3 methods:
-1. Transparent Proxy
-2. Universal Upgradeable Proxy Standard (UUPS)
-3. Diamond Proxy
 
 | Description  | URL |
 | ------------- | ------------- |
