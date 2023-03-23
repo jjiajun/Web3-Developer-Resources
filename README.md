@@ -7,6 +7,13 @@ A one-stop-shop for web3 development resources, including tutorials, sample code
 - Ethereum Web Client Library: Ethers.js
 - API Layer: The Graph Protocol
 
+## Full-stack resources
+
+| Description  | URL |
+| ------------- | ------------- |
+| How to deploy an ERC-20 token on ankr rpc | https://ankr.hashnode.dev/how-to-deploy-your-own-erc-20-token-with-ankr-and-hardhat-on-eth-goerli-testnet |
+| Building GraphQL apis on Ethereum | https://dev.to/edge-and-node/building-graphql-apis-on-ethereum-4poa |
+
 
 ## Smart contract resources
 
@@ -15,14 +22,6 @@ A one-stop-shop for web3 development resources, including tutorials, sample code
 | How to make your smart contracts upgradeable | https://blog.logrocket.com/using-uups-proxy-pattern-upgrade-smart-contracts/ |
 | How diamond proxy works | https://dev.to/mudgen/how-diamond-storage-works-90e|
 | How to build a dividend token in a gas-efficient way | https://www.crowdbotics.com/blog/how-to-build-a-dividend-token-with-solidity 
-
-## Full-stack resources
-
-| Description  | URL |
-| ------------- | ------------- |
-| How to deploy an ERC-20 token on ankr rpc | https://ankr.hashnode.dev/how-to-deploy-your-own-erc-20-token-with-ankr-and-hardhat-on-eth-goerli-testnet |
-| Building GraphQL apis on Ethereum | https://dev.to/edge-and-node/building-graphql-apis-on-ethereum-4poa |
-
 
 ## Security resources
 
