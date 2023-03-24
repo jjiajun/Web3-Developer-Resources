@@ -20,6 +20,7 @@ A one-stop-shop for web3 development resources, including tutorials, sample code
 | Description  | URL |
 | ------------- | ------------- |
 | How to make your smart contracts upgradeable | https://blog.logrocket.com/using-uups-proxy-pattern-upgrade-smart-contracts/ |
+| How to write upgradeable contracts | https://docs.openzeppelin.com/upgrades-plugins/1.x/writing-upgradeable |
 | How diamond proxy works | https://dev.to/mudgen/how-diamond-storage-works-90e|
 | How to build a dividend token in a gas-efficient way | https://www.crowdbotics.com/blog/how-to-build-a-dividend-token-with-solidity 
 
