@@ -12,7 +12,7 @@ A one-stop-shop for web3 development resources, including tutorials, sample code
 | Description  | URL |
 | ------------- | ------------- |
 | Build a dapp with hardhat, react and ethersjs | https://dev.to/yakult/a-tutorial-build-dapp-with-hardhat-react-and-ethersjs-1gmi |
-| How to deploy an ERC-20 token on ankr rpc | https://ankr.hashnode.dev/how-to-deploy-your-own-erc-20-token-with-ankr-and-hardhat-on-eth-goerli-testnet |
+| How to deploy an ERC-20 token on ankr rpc | https://ankr.hashnode.dev/how-to-deploy-your-own-erc-20-token-with-ankr-and-hardhat-on-eth-goerli-testnet | Understand The Graph For Beginners | https://www.youtube.com/watch?v=l2rzT_Dp4T0 |
 | Building GraphQL apis on Ethereum | https://dev.to/edge-and-node/building-graphql-apis-on-ethereum-4poa |
 
 
