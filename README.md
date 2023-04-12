@@ -36,6 +36,6 @@ A one-stop-shop for web3 development resources, including tutorials, sample code
 | ------------- | ------------- |
 | Learn EVM attacks | https://github.com/coinspect/learn-evm-attacks |
 | Re-entrancy attack case study | https://medium.com/valixconsulting/solidity-smart-contract-security-by-example-02-reentrancy-b0c08cfcd555 |
-| How to prevent hacks via DELEGATECALL | https://betterprogramming.pub/preventing-smart-contract-attacks-on-ethereum-delegatecall-e864d0042188 |
+| How to prevent hacks via `DELEGATECALL` | https://betterprogramming.pub/preventing-smart-contract-attacks-on-ethereum-delegatecall-e864d0042188 |
 | Smart contract security guidelines  | https://blog.openzeppelin.com/smart-contract-security-guidelines/  |
 | Smart contract best practices | https://consensys.github.io/smart-contract-best-practices/ |
