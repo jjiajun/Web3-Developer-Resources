@@ -27,6 +27,7 @@ A one-stop-shop for web3 development resources, including tutorials, sample code
 | How diamond proxy works | https://dev.to/mudgen/how-diamond-storage-works-90e|
 | How to write upgradeable contracts | https://docs.openzeppelin.com/upgrades-plugins/1.x/writing-upgradeable |
 | Quick start tutorial on creating Diamond and Facets | https://www.quicknode.com/guides/ethereum-development/smart-contracts/the-diamond-standard-eip-2535-explained-part-2/#create-and-deploy-the-diamond-smart-contract |
+| Learn to write Assembly in Solidity | https://jeancvllr.medium.com/solidity-tutorial-all-about-assembly-5acdfefde05c |
 | How to create tests for solidity smart contracts  | https://stermi.medium.com/how-to-create-tests-for-your-solidity-smart-contract-9fbbc4f0a319  |
 | How to fork mainnet and impersonate accounts in hardhat | https://medium.com/coinmonks/impersonating-accounts-with-hardhat-21212c94dcec |
 | How to build a dividend token in a gas-efficient way | https://www.crowdbotics.com/blog/how-to-build-a-dividend-token-with-solidity 
