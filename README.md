@@ -36,6 +36,7 @@ A one-stop-shop for web3 development resources, including tutorials, sample code
 | How to write upgradeable contracts | https://docs.openzeppelin.com/upgrades-plugins/1.x/writing-upgradeable |
 | How diamond proxy works | https://dev.to/mudgen/how-diamond-storage-works-90e|
 | Beginner's guide to Diamond proxy standard | https://blessingemah.medium.com/a-beginners-guide-to-the-diamond-standard-proxy-b57076365403 |
+| How Diamond storage works | https://dev.to/mudgen/how-diamond-storage-works-90e |
 | Quick start tutorial on creating Diamond and Facets | https://www.quicknode.com/guides/ethereum-development/smart-contracts/the-diamond-standard-eip-2535-explained-part-2/#create-and-deploy-the-diamond-smart-contract |
 | Why do we need loupe functions in Diamond | https://dev.to/mudgen/why-loupe-functions-for-diamonds-1kc3 |
 
