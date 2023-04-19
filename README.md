@@ -7,7 +7,7 @@ A one-stop-shop for web3 development resources, including tutorials, sample code
 - Ethereum Web Client Library: Ethers.js
 - API Layer: The Graph Protocol
 
-## Full-stack resources
+## Quick start to building a dapp
 
 | Description  | URL |
 | ------------- | ------------- |
@@ -17,18 +17,18 @@ A one-stop-shop for web3 development resources, including tutorials, sample code
 | Building GraphQL apis on Ethereum | https://dev.to/edge-and-node/building-graphql-apis-on-ethereum-4poa |
 
 
-## Solidity resources
+## Beginner's guide to learning Solidity
 
 | Description  | URL |
 | ------------- | ------------- |
 | Compilation of patterns and best practices for Solidity | https://github.com/fravoll/solidity-patterns |
 | Refresher on Solidity state variables | https://docs.soliditylang.org/en/latest/contracts.html#constant-state-variables |
-| Learn to write Assembly in Solidity | https://jeancvllr.medium.com/solidity-tutorial-all-about-assembly-5acdfefde05c |
 | How to create tests for solidity smart contracts  | https://stermi.medium.com/how-to-create-tests-for-your-solidity-smart-contract-9fbbc4f0a319  |
 | How to fork mainnet and impersonate accounts in hardhat | https://medium.com/coinmonks/impersonating-accounts-with-hardhat-21212c94dcec |
-| How to build a dividend token in a gas-efficient way | https://www.crowdbotics.com/blog/how-to-build-a-dividend-token-with-solidity 
+| How to build a dividend token in a gas-efficient way | https://www.crowdbotics.com/blog/how-to-build-a-dividend-token-with-solidity |
+| Learn to write Assembly in Solidity | https://jeancvllr.medium.com/solidity-tutorial-all-about-assembly-5acdfefde05c |
 
-## Upgrading Solidity contracts
+## How upgrade Solidity contracts
 
 | Description  | URL |
 | ------------- | ------------- |
@@ -39,7 +39,7 @@ A one-stop-shop for web3 development resources, including tutorials, sample code
 | Quick start tutorial on creating Diamond and Facets | https://www.quicknode.com/guides/ethereum-development/smart-contracts/the-diamond-standard-eip-2535-explained-part-2/#create-and-deploy-the-diamond-smart-contract |
 | Why do we need loupe functions in Diamond | https://dev.to/mudgen/why-loupe-functions-for-diamonds-1kc3 |
 
-## Security resources
+## Beginner's guide to learning smart contract security
 
 | Description  | URL |
 | ------------- | ------------- |
