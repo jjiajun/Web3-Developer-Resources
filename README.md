@@ -28,6 +28,9 @@ A one-stop-shop for web3 development resources, including tutorials, sample code
 | How to build a dividend token in a gas-efficient way | https://www.crowdbotics.com/blog/how-to-build-a-dividend-token-with-solidity |
 
 ## Advanced Solidity
+
+| Description  | URL |
+| ------------- | ------------- |
 | Learn to write Assembly in Solidity | https://jeancvllr.medium.com/solidity-tutorial-all-about-assembly-5acdfefde05c |
 
 ## How upgrade Solidity contracts
