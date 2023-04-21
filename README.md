@@ -44,6 +44,7 @@ A one-stop-shop for web3 development resources, including tutorials, sample code
 | How Diamond storage works | https://dev.to/mudgen/how-diamond-storage-works-90e |
 | Quick start tutorial on creating Diamond and Facets | https://www.quicknode.com/guides/ethereum-development/smart-contracts/the-diamond-standard-eip-2535-explained-part-2/#create-and-deploy-the-diamond-smart-contract |
 | Why do we need loupe functions in Diamond | https://dev.to/mudgen/why-loupe-functions-for-diamonds-1kc3 |
+| Documentation for DELEGATECALL | https://eips.ethereum.org/EIPS/eip-7 |
 
 ## Beginner's guide to learning smart contract security
 
