@@ -27,6 +27,7 @@ A one-stop-shop for web3 development resources, including tutorials, sample code
 | How to fork mainnet and impersonate accounts in hardhat | https://medium.com/coinmonks/impersonating-accounts-with-hardhat-21212c94dcec |
 | How to build a dividend token in a gas-efficient way | https://www.crowdbotics.com/blog/how-to-build-a-dividend-token-with-solidity |
 | Read and understand smart contracts easily | https://www.contractreader.io |
+| Learn to use Foundry for Beginners | https://medium.com/@jtriley15/the-foundry-evm-development-environment-f198f2e4c372 |
 
 
 ## Advanced Solidity
