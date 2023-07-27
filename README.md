@@ -54,6 +54,7 @@ A one-stop-shop for web3 development resources, including tutorials, sample code
 
 | Description  | URL |
 | ------------- | ------------- |
+| Smart contract security field guide | https://scsfg.io/ |
 | Concise intro to basic attacks for beginners | https://www.halborn.com/blog/post/defi-security-part-3-smart-contract-vulnerabilities |
 | Learn EVM attacks | https://github.com/coinspect/learn-evm-attacks |
 | Exhaustive EVM attack vectors | https://github.com/Quillhash/Solidity-Attack-Vectors |
