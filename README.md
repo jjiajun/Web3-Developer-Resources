@@ -7,6 +7,11 @@ A one-stop-shop for web3 development resources, including tutorials, sample code
 - Ethereum Web Client Library: Ethers.js
 - API Layer: The Graph Protocol
 
+## The resource that covers all resources
+| Description  | URL |
+| ------------- | ------------- |
+| Everything resource | https://naderdabit.notion.site/Nader-s-web3-Resources-for-Developers-a200ed2ef21c4d578dc158df2b882c63 |
+
 ## Quick start to building a dapp
 
 | Description  | URL |
