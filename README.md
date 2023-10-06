@@ -67,3 +67,4 @@ A one-stop-shop for web3 development resources, including tutorials, sample code
 | How to prevent hacks via `DELEGATECALL` | https://betterprogramming.pub/preventing-smart-contract-attacks-on-ethereum-delegatecall-e864d0042188 |
 | Smart contract security guidelines  | https://blog.openzeppelin.com/smart-contract-security-guidelines/  |
 | Smart contract best practices | https://consensys.github.io/smart-contract-best-practices/ |
+| Curated list of security tools | https://sovs.notion.site/Security-and-Privacy-3c3e6c296abf45f4a2c92dae3d54c958 |
